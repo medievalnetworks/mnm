@@ -1,38 +1,10 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Home Page
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
-### Built on Poole
+Medieval Networks of Memory is a digital project, hosted by [Stanford Text Technologies](https://texttechnologies.stanford.edu/). It aims to reveal a new and dynamic picture of thirteenth-century religious and social networks and community commemoration. It will achieve this through describing, mapping, visualizing and analysing unique and culturally rich textual artefacts—the Mortuary Roll of Lucy of Hedingham, now kept at the British Library, and the Mortuary Roll of Amphelisa of Lillechurch, which belongs to St John’s College, Cambridge.
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+Our research visualizes which English institutions of men and women were united in their effort to remember Prioress Lucy de Vere and how they sought to inscribe their respects to her. The Roll reveals a great deal about the varieties of religious houses in around 1225; the nature of scribal practices; how forms of communication functioned; and the esteem in which nuns like Lucy and Amphelisa were held.
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
-
-### Lanyon features
-
-In addition to the features of Poole, Lanyon adds the following:
-
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
-
-### Browser support
-
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
