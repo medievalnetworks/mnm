@@ -2,5 +2,4 @@
 layout: page
 title: The Map
 ---
-
-<iframe src="map.html" height="500" width="1000" style="border:none;"></iframe>
+<link rel="stylesheet" href="https://hannahkim24.github.io/mnm/map/map.html">
