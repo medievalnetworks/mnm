@@ -7,7 +7,18 @@ Our team will be producing a database that contains information for each inscrip
 
 ## The Team
 
-Pictures with mini-bios
+### Elaine Treharne
+
+### Mateusz Fafinski
+
+### Isabel Fryett
+
+### Lauren Claire Selden
+
+### Hailee Heinrich
+Hailee Heinrich is a rising junior double-majoring in Communication and Political Science. She is a member of Stanford's synchronized swimming team and is excited to be a part of this project.
 
 ### Hannah Kim
 <img src="https://hannahkim24.github.io/mnm/headshots/Kim_Profile.jpeg" height="200" width="200">
+Hannah Kim is a rising sophomore pursuing a B.S. in Computer Science with a minor in Ethics (’24) ...
+
