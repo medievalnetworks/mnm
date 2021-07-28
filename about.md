@@ -10,4 +10,4 @@ Our team will be producing a database that contains information for each inscrip
 Pictures with mini-bios
 
 ### Hannah Kim
-<img src="https://hannahkim24.github.io/mnm/headshots/Kim_Profile.jpeg" height="100" width="100">
+<img src="https://hannahkim24.github.io/mnm/headshots/Kim_Profile.jpeg" height="200" width="200">
