@@ -16,7 +16,7 @@ Our team will be producing a database that contains information for each inscrip
 ### Lauren Claire Selden
 
 ### Hailee Heinrich
-<img src="https://hannahkim24.github.io/mnm/headshots/Heinrich_Profile.png" height="200" width="160">
+<img src="https://hannahkim24.github.io/mnm/headshots/Heinrich_Profile.png" height="200" width="150">
 Hailee Heinrich is a rising junior double-majoring in Communication and Political Science. She is a member of Stanford's synchronized swimming team and is excited to be a part of this project.
 
 ### Hannah Kim
