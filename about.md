@@ -20,5 +20,5 @@ Hailee Heinrich is a rising junior double-majoring in Communication and Politica
 
 ### Hannah Kim
 <img src="https://hannahkim24.github.io/mnm/headshots/Kim_Profile.jpeg" height="200" width="200">
-Hannah Kim is a rising sophomore pursuing a B.S. in Computer Science with a minor in Ethics (’24)...
+Hannah Kim is a rising sophomore pursuing a B.S. in Computer Science with a minor in Ethics (’24). With a passion for Computer Science and Artificial Intelligence Ethics and Policy, she is working as a research intern at Stanford CESTA and Stanford Law RegLab. 
 
