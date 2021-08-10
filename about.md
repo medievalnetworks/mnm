@@ -16,11 +16,11 @@ Elaine Treharne, MArAd, FSA, FRHistS, FEA, FLSW, is Roberta Bowman Denning Profe
 Mateusz Fafinski is an assistant lecturer at Freie Universität Berlin and a postdoctoral researcher at Stanford University. A medievalist and digital humanist, previously he was a postdoctoral scholar at the University of Lausanne and a TextTechnologies Postdoctoral Fellow at Stanford University. He works on the adaptations of the post-Roman worlds, the nature of historical sources in the digital sphere, early medieval Latin manuscripts, as well as the role of urban space in Early Medieval societies.
 
 ### Isabel Fryett
-<img src="https://hannahkim24.github.io/mnm/headshots/Fryett-Profile.jpeg" height="200" width="200">
+<img src="https://hannahkim24.github.io/mnm/headshots/Fryett-Profile.jpeg" height="200" width="260">
 Isabel is a rising-senior at University of California at Riverside pursing a B.S. in Sociology. She is currently working on an Honors research project on violence in television and its influences on gender. She has previously worked with Professor Treharne on Recollections: Reviving Personal Archives for Stanford Text Technologies.
 
 ### Lauren Claire Selden
-<img src="https://hannahkim24.github.io/mnm/headshots/Selden_Profile.jpeg" height="200" width="200">
+<img src="https://hannahkim24.github.io/mnm/headshots/Selden_Profile.jpeg" height="200" width="190">
 Lauren is an undergraduate at Stanford majoring in History and minoring in Classics. She is particularly interested in high and late medieval Catholicism and how shrines drew pilgrims from every class, age, and gender group from all over Europe in huge numbers during this period. In her free time, she enjoys going on walking pilgrimages (e.g. the Camino de Santiago), baking, reading, and learning more about the Middle Ages through fantastic projects such as Medieval Networks of Memory.
 
 ### Hailee Heinrich
