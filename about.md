@@ -12,8 +12,12 @@ Our team will be producing a database that contains information for each inscrip
 Elaine Treharne, MArAd, FSA, FRHistS, FEA, FLSW, is Roberta Bowman Denning Professor of Humanities and Professor of English at Stanford University, where she directs Stanford Text Technologies. She teaches and researches Medieval Literary Cultures, Manuscript and Archival Studies, and the long History of the Book. She is the author or editor of numerous books and articles, the most recent being The Cambridge Companion to British Medieval Manuscripts (CUP, 2020) and Perspectives on Medieval Manuscripts: The Phenomenal Book (OUP, 2021). Elaine has been principal investigator of ’The Use and Production of English, 1060 to 1220’, ‘Stanford Global Currents’, and ‘CyberText Technologies’. She is a Trustee of the National Library of Wales in Aberystwyth.
 
 ### Mateusz Fafinski
+<img src="https://hannahkim24.github.io/mnm/headshots/Fafinski_Profile.png" height="200" width="150">
+Mateusz Fafinski is an assistant lecturer at Freie Universität Berlin and a postdoctoral researcher at Stanford University. A medievalist and digital humanist, previously he was a postdoctoral scholar at the University of Lausanne and a TextTechnologies Postdoctoral Fellow at Stanford University. He works on the adaptations of the post-Roman worlds, the nature of historical sources in the digital sphere, early medieval Latin manuscripts, as well as the role of urban space in Early Medieval societies.
 
 ### Isabel Fryett
+<img src="https://hannahkim24.github.io/mnm/headshots/Fryett_Profile.jpeg" height="200" width="150">
+Isabel is a rising-senior at University of California at Riverside pursing a B.S. in Sociology. She is currently working on an Honors research project on violence in television and its influences on gender. She has previously worked with Professor Treharne on Recollections: Reviving Personal Archives for Stanford Text Technologies.
 
 ### Lauren Claire Selden
 <img src="https://hannahkim24.github.io/mnm/headshots/Selden_Profile.jpeg" height="200" width="200">
