@@ -16,7 +16,7 @@ Elaine Treharne, MArAd, FSA, FRHistS, FEA, FLSW, is Roberta Bowman Denning Profe
 Mateusz Fafinski is an assistant lecturer at Freie Universität Berlin and a postdoctoral researcher at Stanford University. A medievalist and digital humanist, previously he was a postdoctoral scholar at the University of Lausanne and a TextTechnologies Postdoctoral Fellow at Stanford University. He works on the adaptations of the post-Roman worlds, the nature of historical sources in the digital sphere, early medieval Latin manuscripts, as well as the role of urban space in Early Medieval societies.
 
 ### Isabel Fryett
-<img src="https://hannahkim24.github.io/mnm/headshots/Fryett-Profile.jpeg" height="200" width="150">
+<img src="https://hannahkim24.github.io/mnm/headshots/Fryett-Profile.jpeg" height="200" width="200">
 Isabel is a rising-senior at University of California at Riverside pursing a B.S. in Sociology. She is currently working on an Honors research project on violence in television and its influences on gender. She has previously worked with Professor Treharne on Recollections: Reviving Personal Archives for Stanford Text Technologies.
 
 ### Lauren Claire Selden
