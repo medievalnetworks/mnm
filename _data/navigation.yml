@@ -1,0 +1,15 @@
+docs:
+  - title: ""
+    children:
+      - title: "Home"
+        url: _posts/2021-07-21-homepage.md
+      - title: "Egerton MS 2849"
+        url: egerton.md
+      - title: "St John’s College MS 271"
+        url: st-johns.md
+      - title: "About"
+        url: about.md
+      - title: "Mortuary Rolls and Women’s Religious Networks"
+        url: mortuary_rolls.md
+      - title: "Bibliography"
+        url: bibliography.md
