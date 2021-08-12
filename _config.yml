@@ -11,7 +11,7 @@ permalink:           pretty
 defaults:
   # _docs
   - scope:
-      path: ""
+      path: "_data/navigation.yml"
       type: docs
     values:
       sidebar:
