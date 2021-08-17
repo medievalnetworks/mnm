@@ -18,7 +18,8 @@
     {% endcomment %}
 
   <!--  {% assign pages_list = site.pages | sort:"url" %}-->
-    {% for node in site.data.menulist.sections %}
+    {% for item in site.data.menulist.sections %}
+    
        <li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
     {% endfor %}
 
