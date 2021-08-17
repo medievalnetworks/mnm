@@ -1,6 +1,6 @@
 ---
 layout: page
-title: St John’s College MS 271
+title: St John’s College N.31
 ---
 
 ## Map of Amphelisa of Lillechurch’s Mortuary Roll
