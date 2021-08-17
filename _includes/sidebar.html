@@ -19,8 +19,8 @@
 
   <!--  {% assign pages_list = site.pages | sort:"url" %}-->
     {% for item in site.data.menulist.sections %}
-    
-       <li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
+    <a class="sidebar-nav-item" href="{{ item.url | absolute_url }}">{{ item.title }}</a>
+     
     {% endfor %}
 
 
