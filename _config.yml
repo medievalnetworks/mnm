@@ -2,7 +2,7 @@
 title:               Medieval Networks of Memory
 tagline:             'A Text Technologies Project'
 description:         'Medieval Networks of Memory is a digital project, hosted by Stanford Text Technologies.'
-url:                 https://hannahkim24.github.io
+url:                 https://medievalnetworks.github.io
 baseurl:             '/mnm'
 paginate:            5
 permalink:           pretty
