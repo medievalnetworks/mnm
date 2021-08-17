@@ -8,15 +8,6 @@ paginate:            5
 permalink:           pretty
 
 
-defaults:
-  # _docs
-  - scope:
-      path: "_data/navigation.yml"
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
-        
 # About/contact
 author:
   name:              Hannah Kim
