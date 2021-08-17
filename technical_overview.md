@@ -3,7 +3,7 @@ layout: page
 title: Technical Overview
 ---
 
-## Digital Choices
+### Digital Choices
  
 For a project like the Medieval Networks of Memory, which involved coordination between time zones and continents as well as formats and various forms of digital facsimiles, we needed solutions that are at the same tested and innovative.
 
