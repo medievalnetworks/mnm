@@ -23,6 +23,8 @@ Isabel is a rising-senior at University of California at Riverside pursing a B.S
 <img src="https://hannahkim24.github.io/mnm/headshots/Selden_Profile.jpeg" height="200" width="190">
 Lauren is an undergraduate at Stanford majoring in History and minoring in Classics. She is particularly interested in high and late medieval Catholicism and how shrines drew pilgrims from every class, age, and gender group from all over Europe in huge numbers during this period. In her free time, she enjoys going on walking pilgrimages (e.g. the Camino de Santiago), baking, reading, and learning more about the Middle Ages through fantastic projects such as Medieval Networks of Memory.
 
+Within the Medieval Networks of Memory project, Lauren focuses on paleography. She combs the mortuary rolls entry by entry to identify interesting handwriting features and see if they appear in other tituli (i.e. see if they are also written by other hands). From this research, she anticipates finding intriguing trends that help explain why particular scribes wrote so distinctly. Understanding this can help all scholars of this period better understand a variety of wider subjects, including scribal education, the evolution of writing techniques, and the social and religious networks that connected monastic houses over vast distances.
+
 ### Hailee Heinrich
 <img src="https://hannahkim24.github.io/mnm/headshots/Heinrich_Profile.png" height="200" width="150">
 Hailee Heinrich is a rising junior double-majoring in Communication and Political Science. She is a member of Stanford's synchronized swimming team and is excited to be a part of this project.
