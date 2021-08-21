@@ -35,4 +35,9 @@ Hailee Heinrich is a rising junior double-majoring in Communication and Politica
 ### Hannah Kim
 <img src="https://hannahkim24.github.io/mnm/headshots/Kim_Profile.jpeg" height="200" width="200">
 Hannah Kim is a rising sophomore pursuing a B.S. in Computer Science with a minor in Ethics (’24). With an interest in tech research and AI policy, she is working as a research intern at Stanford CESTA and Stanford Law RegLab. 
-
+<p>
+  
+For the Medieval Networks of Memory project, Hannah took a more technical approach for her research. She first attempted to utilize
+computer vision to determine how much actual space on a mortuary roll each entry takes and if there were any significant patterns that the computer can pick up. For example, were there certain female houses taking more space or houses from a particular region taking less? She also worked on developing the MNM website that currently houses the team’s research, interactive maps, and project reflections. 
+</p>
+  
