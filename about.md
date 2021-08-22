@@ -32,6 +32,12 @@ Within the Medieval Networks of Memory project, Lauren focuses on paleography. S
 <img src="https://hannahkim24.github.io/mnm/headshots/Heinrich_Profile.png" height="200" width="150">
 Hailee Heinrich is a rising junior double-majoring in Communication and Political Science. She is a member of Stanford's synchronized swimming team and is excited to be a part of this project.
 
+<p>
+  
+Hailee's focus for this research interim concentrated on the applications of monumentality and remembrance to outlets beyond just mortuary rolls. She wanted to compare the similarities and nuances between mortuary rolls such as the ones the team focused on for Medieval Networks of Memory and such monuments as Maya Lin's design for the Vietnam Veterans Memorial and Daniel Libeskind's plan for the Jewish Museum in Berlin. In comparing these different structures, she was able to think more broadly on what memorialization has meant across cultures and history, while also narrowing in on how what the team chose to preserve says about us politically, culturally, and socially. Looking further, she believes it will be interesting to see what a twenty-first monument looks like and how we decide we want to carry memorialization with us into the future."
+  </p>
+
+
 ### Hannah Kim
 <img src="https://hannahkim24.github.io/mnm/headshots/Kim_Profile.jpeg" height="200" width="200">
 Hannah Kim is a rising sophomore pursuing a B.S. in Computer Science with a minor in Ethics (’24). With an interest in tech research and AI policy, she is working as a research intern at Stanford CESTA and Stanford Law RegLab. 
