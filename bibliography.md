@@ -9,7 +9,7 @@ St. Andrews _Monastic Matrix_: https://arts.st-andrews.ac.uk/monasticmatrix/home
 
 ### 2. Printed Sources
 
-  Bugyis, Katie Ann-Marie, “The Practice of Penance in Communities of Benedictine Women Religious in Central Medieval England”,_Speculum_ , vol. 92, no. 1 (2017): 36–84. 
+  Bugyis, Katie Ann-Marie, “The Practice of Penance in Communities of Benedictine Women Religious in Central Medieval England”, _Speculum_, vol. 92, no. 1 (2017): 36–84. 
 
 
 
