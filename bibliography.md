@@ -4,7 +4,7 @@ title: Bibliography
 ---
 ### 1. Websites
 
-St. Andrews _Monastic Matrix_: [https://arts.st-andrews.ac.uk/monasticmatrix/home](https://arts.st-andrews.ac.uk/monasticmatrix/home)
+St. Andrews _Monastic Matrix_: [https://arts.st-andrews.ac.uk/monasticmatrix/](https://arts.st-andrews.ac.uk/monasticmatrix/home)
 
 
 ### 2. Printed Sources
