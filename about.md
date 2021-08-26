@@ -9,6 +9,7 @@ Our team will be producing a database that contains information for each inscrip
 
 ### Elaine Treharne
 <img src="https://hannahkim24.github.io/mnm/headshots/Treharne_Profile.jpeg" height="200" width="150">
+
 Elaine Treharne, MArAd, FSA, FRHistS, FEA, FLSW, is Roberta Bowman Denning Professor of Humanities and Professor of English at Stanford University, where she directs Stanford Text Technologies. She teaches and researches Medieval Literary Cultures, Manuscript and Archival Studies, and the long History of the Book. She is the author or editor of numerous books and articles, the most recent being _The Cambridge Companion to British Medieval Manuscripts_ (CUP, 2020) and _Perspectives on Medieval Manuscripts: The Phenomenal Book_ (OUP, 2021). Elaine has been principal investigator of ’The Use and Production of English, 1060 to 1220’, ‘Stanford Global Currents’, and ‘CyberText Technologies’. She is a Trustee of the National Library of Wales in Aberystwyth.
 
 ### Mateusz Fafinski
