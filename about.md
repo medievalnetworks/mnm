@@ -18,7 +18,12 @@ Mateusz Fafinski is an assistant lecturer at Freie Universität Berlin and a pos
 
 ### Isabel Fryett
 <img src="https://hannahkim24.github.io/mnm/headshots/Fryett-Profile.jpeg" height="200" width="260">
-Isabel is a rising-senior at University of California at Riverside pursing a B.S. in Sociology. She is currently working on an Honors research project on violence in television and its influences on gender. She has previously worked with Professor Treharne on "Recollections: Reviving Personal Archives" for Stanford Text Technologies.
+Isabel is a rising-senior at University of California at Riverside pursing a B.S. in Sociology. She is currently working on an Honors research project on violence in television and its influences on gender. She has previously worked with Professor Treharne on "Recollections: Reviving Personal Archives" for Stanford Text Technologies.  
+
+<p>
+  
+For the Medieval Networks of Memory project, Isabel focuses on the sociological aspects of women scribes and women in religion during the Middle Ages. She is interested in the way female handwriting differs from male handwriting, and if that has any correlation to the amount of education one received based on gender. She is also interested in how much space an institution took up on the roll. She wants to see if this has any correlation to the size of the institution, the amount of people within the institution, or how much prestige the institution thinks/does possess. She’s interested in these aspects because it can offer aspects of how society functioned in medieval times, as well as providing us an idea of the ‘almost Twitter like’ set up that was created when working on a mortuary roll. 
+</p>
 
 ### Lauren Selden
 <img src="https://hannahkim24.github.io/mnm/headshots/Selden_Profile.jpeg" height="200" width="190">
@@ -34,9 +39,8 @@ Within the Medieval Networks of Memory project, Lauren focuses on paleography. S
 Hailee Heinrich is a rising junior double-majoring in Communication and Political Science. She is a member of Stanford's synchronized swimming team and is excited to be a part of this project.
 
 <p>
-  
-Hailee's focus for this research interim concentrated on the applications of monumentality and remembrance to outlets beyond just mortuary rolls. She wanted to compare the similarities and nuances between mortuary rolls such as the ones the team focused on for Medieval Networks of Memory and such monuments as Maya Lin's design for the Vietnam Veterans Memorial and Daniel Libeskind's plan for the Jewish Museum in Berlin. In comparing these different structures, she was able to think more broadly on what memorialization has meant across cultures and history, while also narrowing in on how what the team chose to preserve says about us politically, culturally, and socially. Looking further, she believes it will be interesting to see what a twenty-first monument looks like and how we decide we want to carry memorialization with us into the future.
-  </p>
+  Hailee's focus for this research interim concentrated on the applications of monumentality and remembrance to outlets beyond just mortuary rolls. She wanted to compare the similarities and nuances between mortuary rolls such as the ones the team focused on for Medieval Networks of Memory and such monuments as Maya Lin's design for the Vietnam Veterans Memorial and Daniel Libeskind's plan for the Jewish Museum in Berlin. In comparing these different structures, she was able to think more broadly on what memorialization has meant across cultures and history, while also narrowing in on how what the team chose to preserve says about us politically, culturally, and socially. Looking further, she believes it will be interesting to see what a twenty-first monument looks like and how we decide we want to carry memorialization with us into the future.
+</p>
 
 
 ### Hannah Kim
