@@ -9,19 +9,19 @@ Our team will be producing a database that contains information for each inscrip
 
 ### Elaine Treharne
 <img src="https://hannahkim24.github.io/mnm/headshots/Treharne_Profile.jpeg" height="200" width="150">
-Elaine Treharne, MArAd, FSA, FRHistS, FEA, FLSW, is Roberta Bowman Denning Professor of Humanities and Professor of English at Stanford University, where she directs Stanford Text Technologies. She teaches and researches Medieval Literary Cultures, Manuscript and Archival Studies, and the long History of the Book. She is the author or editor of numerous books and articles, the most recent being The Cambridge Companion to British Medieval Manuscripts (CUP, 2020) and Perspectives on Medieval Manuscripts: The Phenomenal Book (OUP, 2021). Elaine has been principal investigator of ’The Use and Production of English, 1060 to 1220’, ‘Stanford Global Currents’, and ‘CyberText Technologies’. She is a Trustee of the National Library of Wales in Aberystwyth.
+Elaine Treharne, MArAd, FSA, FRHistS, FEA, FLSW, is Roberta Bowman Denning Professor of Humanities and Professor of English at Stanford University, where she directs Stanford Text Technologies. She teaches and researches Medieval Literary Cultures, Manuscript and Archival Studies, and the long History of the Book. She is the author or editor of numerous books and articles, the most recent being _The Cambridge Companion to British Medieval Manuscripts_ (CUP, 2020) and _Perspectives on Medieval Manuscripts: The Phenomenal Book_ (OUP, 2021). Elaine has been principal investigator of ’The Use and Production of English, 1060 to 1220’, ‘Stanford Global Currents’, and ‘CyberText Technologies’. She is a Trustee of the National Library of Wales in Aberystwyth.
 
 ### Mateusz Fafinski
 <img src="https://hannahkim24.github.io/mnm/headshots/Fafinski-Profile.png" height="200" width="150">
-Mateusz Fafinski is an assistant lecturer at Freie Universität Berlin and a postdoctoral researcher at Stanford University. A medievalist and digital humanist, previously he was a postdoctoral scholar at the University of Lausanne and a TextTechnologies Postdoctoral Fellow at Stanford University. He works on the adaptations of the post-Roman worlds, the nature of historical sources in the digital sphere, early medieval Latin manuscripts, as well as the role of urban space in Early Medieval societies.
+Mateusz Fafinski is an assistant lecturer at Freie Universität Berlin and a postdoctoral researcher at Stanford University. A medievalist and digital humanist, previously he was a postdoctoral scholar at the University of Lausanne and a Text Technologies Postdoctoral Fellow at Stanford University. He works on the adaptations of the post-Roman worlds, the nature of historical sources in the digital sphere, early medieval Latin manuscripts, as well as the role of urban space in Early Medieval societies.
 
 ### Isabel Fryett
 <img src="https://hannahkim24.github.io/mnm/headshots/Fryett-Profile.jpeg" height="200" width="260">
-Isabel is a rising-senior at University of California at Riverside pursing a B.S. in Sociology. She is currently working on an Honors research project on violence in television and its influences on gender. She has previously worked with Professor Treharne on Recollections: Reviving Personal Archives for Stanford Text Technologies.
+Isabel is a rising-senior at University of California at Riverside pursing a B.S. in Sociology. She is currently working on an Honors research project on violence in television and its influences on gender. She has previously worked with Professor Treharne on "Recollections: Reviving Personal Archives" for Stanford Text Technologies.
 
-### Lauren Claire Selden
+### Lauren Selden
 <img src="https://hannahkim24.github.io/mnm/headshots/Selden_Profile.jpeg" height="200" width="190">
-Lauren is an undergraduate at Stanford majoring in History and minoring in Classics. She is particularly interested in high and late medieval Catholicism and how shrines drew pilgrims from every class, age, and gender group from all over Europe in huge numbers during this period. In her free time, she enjoys going on walking pilgrimages (e.g. the Camino de Santiago), baking, reading, and learning more about the Middle Ages through fantastic projects such as Medieval Networks of Memory.
+Lauren Selden is a rising junior at Stanford majoring in History and minoring in Classics. She is particularly interested in the history of high and late medieval Catholicism and the practice of pilgrimage. In her free time, she enjoys going on walking pilgrimages (e.g. the Camino de Santiago), baking, reading, and learning more about the Middle Ages through fantastic projects such as Medieval Networks of Memory.
 
 <p>
   
@@ -34,7 +34,7 @@ Hailee Heinrich is a rising junior double-majoring in Communication and Politica
 
 <p>
   
-Hailee's focus for this research interim concentrated on the applications of monumentality and remembrance to outlets beyond just mortuary rolls. She wanted to compare the similarities and nuances between mortuary rolls such as the ones the team focused on for Medieval Networks of Memory and such monuments as Maya Lin's design for the Vietnam Veterans Memorial and Daniel Libeskind's plan for the Jewish Museum in Berlin. In comparing these different structures, she was able to think more broadly on what memorialization has meant across cultures and history, while also narrowing in on how what the team chose to preserve says about us politically, culturally, and socially. Looking further, she believes it will be interesting to see what a twenty-first monument looks like and how we decide we want to carry memorialization with us into the future."
+Hailee's focus for this research interim concentrated on the applications of monumentality and remembrance to outlets beyond just mortuary rolls. She wanted to compare the similarities and nuances between mortuary rolls such as the ones the team focused on for Medieval Networks of Memory and such monuments as Maya Lin's design for the Vietnam Veterans Memorial and Daniel Libeskind's plan for the Jewish Museum in Berlin. In comparing these different structures, she was able to think more broadly on what memorialization has meant across cultures and history, while also narrowing in on how what the team chose to preserve says about us politically, culturally, and socially. Looking further, she believes it will be interesting to see what a twenty-first monument looks like and how we decide we want to carry memorialization with us into the future.
   </p>
 
 
