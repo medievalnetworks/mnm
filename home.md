@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-image: /images/snapshot.png
+image: /mnm/images/snapshot.png
 excerpt: "Medieval Networks of Memory is a digital project, hosted by Stanford Text Technologies. It aims to reveal a new and dynamic picture of thirteenth-century religious and social networks and community commemoration."
 ---
 
