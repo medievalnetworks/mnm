@@ -21,8 +21,9 @@ The research team is gathering a database of palaeographical and codicological f
 
 In his monumental and foundational work, Dufour organised the entries of his rolls into a hypothetical order in which he believed the breviator visited successive institutions.[^4] His concept is more or less based on the ‘path of the least resistance’ of the perceived transport network in early thirteenth-century Britain. But the rolls were created over a larger span of time, perhaps as much as five years, and the breviator often carried more than one roll. This led us to question some features of Dufour’s order. The itineraries of Lucy’s and Amphelisa’s rolls can only be established if the geographical proximity of various houses and their filiation is supplemented by the information delivered from the material and palaeographical strata of the manuscripts. Since the order of the tituli do not always correspond with an obvious route, there are numerous questions to be addressed about how the rolls were actually compiled. This will also be part of the next stage of our research process and we are hopeful that our discoveries of related hands and shared scribes will help to fill out the evidence for these remarkable and generative records that testify so clearly to commemorative practices and networks of memory in the High Middle Ages.
 
-<div style="text-align: right"> Elaine Treharne <br>
-Mateusz Fafinski </div>
+<div style="text-align: right"> <i>Elaine Treharne <br>
+  Mateusz Fafinski</i> </div>
+<br>
 
 [^1]: We are immensely grateful to Kathryn McKee, Special Collections Librarian at St John’s College, for her critical support and assistance. We are also grateful to Dr Orietta Da Rold at Cambridge.
 
