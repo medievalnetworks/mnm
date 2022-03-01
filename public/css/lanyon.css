@@ -86,6 +86,23 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+/*
+ * Responsive container
+ */
+
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+.resp-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
 
 /*
  * Masthead
