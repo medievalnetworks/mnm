@@ -4,4 +4,4 @@ title: St John’s College N.31
 ---
 
 ## Map of Amphelisa of Lillechurch’s Mortuary Roll
-<iframe src="https://medievalnetworks.github.io/mnm/map/map_st-johnN31.html" height="100%" width="1000"></iframe>
+<iframe src="https://medievalnetworks.github.io/mnm/map/map_st-johnN31.html" height="800" width="1200"></iframe>
