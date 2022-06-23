@@ -51,4 +51,11 @@ Hannah Kim is a rising sophomore pursuing a B.S. in Computer Science with a mino
 For the Medieval Networks of Memory project, Hannah took a more technical approach for her research. She first attempted to utilize
 computer vision to determine how much actual space on a mortuary roll each entry takes and if there were any significant patterns that the computer can pick up. For example, were there certain female houses taking more space or houses from a particular region taking less? She also worked on developing the MNM website that currently houses the team’s research, interactive maps, and project reflections. 
 </p>
-  
+
+### Nikita Bhardwaj
+<img src="https://github.com/medievalnetworks/mnm/blob/gh-pages/images/Nikita_profile.jpg" height="200" width="200">
+Nikita Bhardwaj is a rising sophomore (’25) majoring in Symbolic Systems. She is interested in the applications of machine learning in neuroscience and the humanities, and she is working as a research intern at CESTA and the Stanford Memory Lab.
+
+<p>
+Nikita's focus has been on the machine learning and segmentation. She has researched how using OpenCV packages can allow for automatic detection of various features on the membranes. Her work focused on understnading the inner divisions of the rolls and applying computer vision to extract, segment and analyse tituli in their context.
+</p>
