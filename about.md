@@ -18,42 +18,26 @@ Mateusz Fafinski is a Fellow at the Max-Weber-Kolleg für kultur- und sozialwiss
 
 ### Isabel Fryett
 <img src="https://hannahkim24.github.io/mnm/headshots/Fryett-Profile.jpeg" height="200" width="260">
-Isabel is a graduate of the University of California at Riverside. She is an administrator in the Stanford Doerr School, from where she is planning on applying to graduate school.  
-
-<p>
-  
-For the Medieval Networks of Memory project, Isabel focused on the sociological aspects of women scribes and women in religion during the Middle Ages. She is interested in the way female handwriting differs from male handwriting, and if that has any correlation to the amount of education one received based on gender.
+Isabel is a graduate of the University of California at Riverside. She is an administrator in the Stanford Doerr School, from where she is planning on applying to graduate school. For the Medieval Networks of Memory project, Isabel focused on the sociological aspects of women scribes and women in religion during the Middle Ages. She is interested in the way female handwriting differs from male handwriting, and if that has any correlation to the amount of education one received based on gender.
 </p>
 
 ### Lauren Selden
 <img src="https://hannahkim24.github.io/mnm/headshots/Selden_Profile.jpeg" height="200" width="190">
-Lauren Selden was a History undergraduate at Stanford, minoring in Classics, who is now a doctoral candidate at the University of Chicago. She is interested in the history of high and late medieval Catholicism and the practice of pilgrimage. 
-
-<p>
-  
-Within the Medieval Networks of Memory project, Lauren focused on palaeography. She combed the mortuary rolls entry by entry to identify specific handwriting features to assess where they appear in tituli across the rolls. This research provided the data for our visualizations.
+Lauren Selden was a History undergraduate at Stanford, minoring in Classics, who is now a doctoral candidate at the University of Chicago. She is interested in the history of high and late medieval Catholicism and the practice of pilgrimage. Within the Medieval Networks of Memory project, Lauren focused on palaeography. She combed the mortuary rolls entry by entry to identify specific handwriting features to assess where they appear in tituli across the rolls. This research provided the data for our visualizations.
 </p>
 
 ### Hailee Heinrich
 <img src="https://hannahkim24.github.io/mnm/headshots/Heinrich_Profile.png" height="200" width="150">
-Hailee Heinrich was a Stanford undergraduate specialising in Communication and Political Science. 
-
-<p>
-Hailee's focus for this research concentrated on the applications of monumentality and remembrance to outlets beyond just mortuary rolls.
+Hailee Heinrich was a Stanford undergraduate specialising in Communication and Political Science. Hailee's focus for this research concentrated on the applications of monumentality and remembrance to outlets beyond just mortuary rolls.
 </p>
 
 
 ### Hannah Kim
 <img src="https://hannahkim24.github.io/mnm/headshots/Kim_Profile.jpeg" height="200" width="200">
-Hannah Kim was a Computer Science student at Stanford with a minor in Ethics. She is interested in technology research and AI policy.
-<p>
-  
-For the Medieval Networks of Memory project, Hannah took a technical approach, determining how much space on a mortuary roll each entry takes and if there are any significant patterns that can be detected through automation.
+Hannah Kim was a Computer Science student at Stanford with a minor in Ethics. She is interested in technology research and AI policy. For the Medieval Networks of Memory project, Hannah took a technical approach, determining how much space on a mortuary roll each entry takes and if there are any significant patterns that can be detected through automation.
 </p>
 
 ### Nikita Bhardwaj
 <img src="https://github.com/medievalnetworks/mnm/blob/gh-pages/images/Nikita_profile.jpg" height="200" width="200">
-Nikita Bhardwaj was a Symbolic Systems undergraduate at Stanford, interested in the applications of machine learning in neuroscience and the humanities.
-<p>
-Nikita's focus was on machine learning and segmentation. She researched how OpenCV packages allow for automated detection of _mise-en-page_ features on the membranes.
+Nikita Bhardwaj was a Symbolic Systems undergraduate at Stanford, interested in the applications of machine learning in neuroscience and the humanities. Nikita's focus was on machine learning and segmentation. She researched how OpenCV packages allow for automated detection of _mise-en-page_ features on the membranes.
 </p>
