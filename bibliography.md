@@ -58,6 +58,13 @@ Kirschner, Julius, and Suzanne F. Wemple, ed., _Women in the Medieval World,_ (O
 
 
   Sweetinburgh, Sheila, “Religious Women in the Landscape: Their Roles in Medieval Canterbury and Its Hinterland”, _Gender in Medieval Places, Spaces and Thresholds_, ed. by Victoria Blud et al. (London: University of London Pres, 2019): 9–24. 
+  
+
+  Treharne, Elaine, ‘“Miserere, meidens”: Abbesses and Nuns’, in Women and Medieval Literary Culture, ed. Corine Saunders and Diane Watt (Cambridge: Cambridge University Press, 2023), pp. 27-49.
+
+
+  Treharne, Elaine, _Disrupting Categories, 1050–1250: Rethinking Humanities through Premodern Texts_ (Leeds: ARC Humanities Press, September 2024)
+
 
 
   Warren, Nancy, _Spiritual Economies: Female Monasticism in Later Medieval England_, (Philadelphia: University of Pennsylvania Press, 2001). 
