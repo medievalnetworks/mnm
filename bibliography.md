@@ -12,6 +12,8 @@ St. Andrews _Monastic Matrix_: [https://arts.st-andrews.ac.uk/monasticmatrix/](h
   Bugyis, Katie Ann-Marie, “The Practice of Penance in Communities of Benedictine Women Religious in Central Medieval England”, _Speculum_, vol. 92, no. 1 (2017): 36–84. 
 
 
+  Dufour, Jean, _Recueil des Rouleaux des Morts (VIIIe siècle-vers 1536)_, 4 vols. (Paris: Diffusion de Boccard, 2005).
+
 
   Dronke, Peter, _Women Writers of the Middle Ages : A Critical Study of Texts from Perpetua to Marguerite Porete_, (Cambridge: Cambridge University Press, 1984).
 
